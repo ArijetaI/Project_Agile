@@ -14,3 +14,6 @@ Faza e dytë- Scrum dhe përcaktimi i detyrave
   2. Arijeta do te beje zhvillimin e kodit dhe do te siguroj që të gjitha kërkesat të përfshihen dhe të shmangen gabime shtesë
     Detyra u percaktua 11/01/2020: 
     1.) Change login form , give opportunity to change password and add mobile phone
+    
+    
+    Scrum Meeting - Data 16-01-2019 Pjesemarres: Naim Ahmetaj, Atijeta Izeiri dhe Florentina Syla Eshte evidentuar nje bug, ku APP nuk validon formatin email adresses qe perdoret si user name Bug-i eshte dokumentuar ne PivitolTrancker dhe mandej eshte ngarkuar edhe ne GIT, kjo detyre i eshte caktuar zhvilluese Arijeta Izeri.
