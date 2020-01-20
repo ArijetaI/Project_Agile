@@ -17,3 +17,11 @@ Faza e dytë- Scrum dhe përcaktimi i detyrave
     
     
     Scrum Meeting - Data 16-01-2019 Pjesemarres: Naim Ahmetaj, Atijeta Izeiri dhe Florentina Syla Eshte evidentuar nje bug, ku APP nuk validon formatin email adresses qe perdoret si user name Bug-i eshte dokumentuar ne PivitolTrancker dhe mandej eshte ngarkuar edhe ne GIT, kjo detyre i eshte caktuar zhvilluese Arijeta Izeri.
+
+
+
+ Scrum Meeting - Data 20-01-2019 Pjesëmarres: Naim Ahmetaj, Atijeta Izeiri dhe Florentina Syla ,janë evidentuar dy probleme, ku aplikacioni nuk punon konform kërkesave:
+ 
+ 1. Identifikim i problemit, në lidhje me balancën. Në faqen e balancësn, duhet te jetë e dalluar me te kuqe, balancat me pagesat e pakompletuara. Bug-i është dokumentuar në PivitolTrancker dhe mandej është ngarkuar edhe në GIT, kjo detyrë i është caktuar zhvillueses Arijeta Izeiri.
+
+ 2. Raporti - paraqit transakcionet në mes dy datave: date e fillimit fhr data e mbarimit.- Në faqen e transacioneve, shfrytesuesi është në gjendje t'i shoh te gjitha transakcionet ,nëse shfrytëzuesi nuk vendosë datën e fillimit dhe mbarimit. Nëse shfrytëzuesi, vendos daten e fillimit dhe mbarimit., app paraqet në menyrë korrekte të gjitha transaksionet, në mes datës së fillimit dhe mbarimit, mirëpo nëse shfrytezuesi printon këto transcione, në raport paraqiten të gjita transaksionet, por në header nuk paraqitet data e fillimit dhe mbarimit. Bug-i është dokumentuar në PivitolTrancker dhe mandej është ngarkuar edhe në GIT, kjo detyrë i është caktuar zhvillueses Florentins Syla.
