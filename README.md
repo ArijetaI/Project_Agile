@@ -28,4 +28,4 @@ Faza e dytë- Scrum dhe përcaktimi i detyrave
  
  Scrum Meeting- 21/01/2020 :
  Tasku 1, i krijuar është në progres, në ditët në vijim do bëhet rishikim i rezultateve mbas zhvillimit.
- Nderkohe problemi me "Validation mail" është përfunduar, dhe gati për instalim.
+ Nderkohe problemi me "Validation mail" është përfunduar, dhe gati për instalim, project_20200121_2122 permban detajet rreth ketij problemi!
