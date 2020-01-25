@@ -1,0 +1,11 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Owned By,Comment,Comment,Comment
+170757996,Validation of email address ,"",2,"Jan 20, 2020","Jan 26, 2020",bug,,accepted,"Jan 16, 2020","Jan 25, 2020",,Naim Ahmetaj,"When the user put not valid format of email address, them app doesn’t inform user for
+incorrect format of email address. In this case App trying to connect instead of showing
+error message.",https://www.pivotaltracker.com/story/show/170757996,arijetaizeiri,Florentina,"Ready to Test.
+test case. 
+If email is not valid Error will appear. 
+""Incorrect e-mail address"" (arijetaizeiri - Jan 20, 2020)","Ready to Test
+Also, in that error message a ""Try Again"" button will appear to the client, and if the client selects this button, then he/she will return to the login page. (Florentina - Jan 24, 2020)","Changes done ready to test! (arijetaizeiri - Jan 24, 2020)"
+170807541,"Identity the problem within balances - In the balance screen, should be highlight in red balances with not completed payments. 
+","",2,"Jan 20, 2020","Jan 26, 2020",chore,,accepted,"Jan 20, 2020","Jan 25, 2020",,Naim Ahmetaj,"Identity the problem within balances - In the balance screen, should be highlight in red balances with not completed payments. 
+As requested, on screen balances, should be highlight in red balances with not completed payments.  This for user to identify easily not complete payments,",https://www.pivotaltracker.com/story/show/170807541,arijetaizeiri,Naim Ahmetaj
