@@ -1,0 +1,9 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Owned By,Comment
+170807734,"Report Show Transactions between Start Date and End Date
+On transaction screen user is able to see all transaction id user not put Start Date and End Date,. If user put Start Date and End Date, app shown correctly all transaction between Start Date and End Date, but if user try to print out those transaction, in report there are all transaction, but on header of transaction are missing Start Date and End Date.
+","",2,"Jan 20, 2020","Jan 26, 2020",bug,,started,"Jan 20, 2020",,,Naim Ahmetaj,"Report Show Transactions between Start Date and End Date
+On transaction screen user is able to see all transaction id user not put Start Date and End Date,. If user put Start Date and End Date, app shown correctly all transaction between Start Date and End Date, but if user try to print out those transaction, in report there are all transaction, but on header of transaction are missing Start Date and End Date.",https://www.pivotaltracker.com/story/show/170807734,Florentina,Naim Ahmetaj,"Ready to Test
+In the ""ReportTransactions"" class, in the title we will create a space for the result of the query created by the client.
+This report will be presented as:
+
+""Transaction report from - (first date received by query) - to - (last query date)"" (Florentina - Jan 25, 2020)"
